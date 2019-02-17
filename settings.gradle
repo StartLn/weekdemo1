@@ -1,0 +1,1 @@
+include ':app', ':frescodemo', ':reflection', ':reflect', ':observerdemo', ':week1demo'
